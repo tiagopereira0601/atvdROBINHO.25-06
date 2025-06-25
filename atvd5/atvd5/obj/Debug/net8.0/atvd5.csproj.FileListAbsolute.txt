@@ -1,0 +1,14 @@
+C:\Users\Vionel - 04\Desktop\listaROBINHO\atvd5\atvd5\bin\Debug\net8.0\atvd5.exe
+C:\Users\Vionel - 04\Desktop\listaROBINHO\atvd5\atvd5\bin\Debug\net8.0\atvd5.deps.json
+C:\Users\Vionel - 04\Desktop\listaROBINHO\atvd5\atvd5\bin\Debug\net8.0\atvd5.runtimeconfig.json
+C:\Users\Vionel - 04\Desktop\listaROBINHO\atvd5\atvd5\bin\Debug\net8.0\atvd5.dll
+C:\Users\Vionel - 04\Desktop\listaROBINHO\atvd5\atvd5\bin\Debug\net8.0\atvd5.pdb
+C:\Users\Vionel - 04\Desktop\listaROBINHO\atvd5\atvd5\obj\Debug\net8.0\atvd5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vionel - 04\Desktop\listaROBINHO\atvd5\atvd5\obj\Debug\net8.0\atvd5.AssemblyInfoInputs.cache
+C:\Users\Vionel - 04\Desktop\listaROBINHO\atvd5\atvd5\obj\Debug\net8.0\atvd5.AssemblyInfo.cs
+C:\Users\Vionel - 04\Desktop\listaROBINHO\atvd5\atvd5\obj\Debug\net8.0\atvd5.csproj.CoreCompileInputs.cache
+C:\Users\Vionel - 04\Desktop\listaROBINHO\atvd5\atvd5\obj\Debug\net8.0\atvd5.dll
+C:\Users\Vionel - 04\Desktop\listaROBINHO\atvd5\atvd5\obj\Debug\net8.0\refint\atvd5.dll
+C:\Users\Vionel - 04\Desktop\listaROBINHO\atvd5\atvd5\obj\Debug\net8.0\atvd5.pdb
+C:\Users\Vionel - 04\Desktop\listaROBINHO\atvd5\atvd5\obj\Debug\net8.0\atvd5.genruntimeconfig.cache
+C:\Users\Vionel - 04\Desktop\listaROBINHO\atvd5\atvd5\obj\Debug\net8.0\ref\atvd5.dll
